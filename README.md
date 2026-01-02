@@ -20,3 +20,7 @@ during emergency situations.
 
 ## 📌 Current Status
 Initial project setup and requirements definition completed.
+
+## 🚨 SOS Trigger
+The application uses a long-press SOS button (3 seconds)
+to safely trigger emergency alerts.
