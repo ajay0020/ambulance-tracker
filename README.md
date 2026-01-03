@@ -27,3 +27,6 @@ to safely trigger emergency alerts.
 ## 📍 Location Handling
 Live location is requested only during SOS events
 to ensure privacy and reliability.
+## 🗄 Database Design
+The application uses separate collections for users,
+emergency contacts, and SOS alerts to ensure scalability.
