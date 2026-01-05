@@ -62,13 +62,15 @@ SMS Service (Twilio)
 Triggers an SOS alert with live location.
 
 **Request Body**
-```json
+
 {
   "userId": "string",
   "latitude": 26.8467,
   "longitude": 80.9462
 }
+
 **Response**
+
 {
   "success": true,
   "liveLocation": "https://www.google.com/maps?q=26.8467,80.9462",
