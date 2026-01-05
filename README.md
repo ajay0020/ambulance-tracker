@@ -36,11 +36,17 @@ alerts that can be consumed by any mobile or web client.
 
 ## 🏗 Architecture Overview
 Client (API Consumer / Mobile App)
+
 ↓
+
 Node.js + Express Backend
+
 ↓
+
 MongoDB (Atlas)
+
 ↓
+
 SMS Service (Twilio)
 
 
